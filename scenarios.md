@@ -18,4 +18,4 @@ Sources:
 - [Pregnancy-related rasters from world pop for Rwanda](http://www.worldpop.org.uk/data/files/index.php?dataset=346&zip_title=Rwanda%20300m%20Maternal%20and%20Newborn%20Health&action=group)
 - [Rwanda Admin Units from Humanitarian Data Exchange](https://data.humdata.org/dataset/rwanda-admin-level-2-boundaries)
 - [Shapefile to GeoJSON Converter](https://mygeodata.cloud/converter/shp-to-geojson)
-- [
+- [geojson.io](http://geojson.io) - Website for in-browser editing of GeoJSON files, including removing features
