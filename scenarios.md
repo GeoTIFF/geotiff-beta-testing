@@ -19,3 +19,4 @@ Sources:
 - [Rwanda Admin Units from Humanitarian Data Exchange](https://data.humdata.org/dataset/rwanda-admin-level-2-boundaries)
 - [Shapefile to GeoJSON Converter](https://mygeodata.cloud/converter/shp-to-geojson)
 - [geojson.io](http://geojson.io) - Website for in-browser editing of GeoJSON files, including removing features
+- If you want to take a shortcut, you can just directly grab the GeoJSONs for Kigali and the Other Provinces [here](https://github.com/GeoTIFF/geotiff-beta-testing/blob/master/kigali.geojson) and [here](https://github.com/GeoTIFF/geotiff-beta-testing/blob/master/Rwanda%20Provinces%20Except%20Kigali.geojson)
